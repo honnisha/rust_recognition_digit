@@ -6,3 +6,4 @@ authors = ["gangashman"]
 [dependencies]
 rulinalg="0.4.2"
 mnist = "0.4.0"
+rusty-machine="0.5.4"
